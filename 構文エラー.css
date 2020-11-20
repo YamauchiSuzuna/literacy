@@ -1,11 +1,7 @@
-.txt{
-    font-size: 3vw;
+.foo{
+    font-size: 20px;
 }
 
-.foo {
-    color:black;
-}
-
-.textdecoration_linethrough{
-    text-decoration: line-through;
+.txt1{
+    color:red;
 }
